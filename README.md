@@ -1,4 +1,4 @@
-# Task 10 – 2D Game: Train an AI Agent for Flappy Bird (PLE)
+# 2D Game: Train an AI Agent for Flappy Bird (PLE)
 
 ## ✅ Goal
 Train a reinforcement learning (RL) agent to autonomously play a simple 2D game (Flappy Bird or Chrome Dino). The agent should learn the game mechanics, pick optimal actions, and **maximize score**.  
